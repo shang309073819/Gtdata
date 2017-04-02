@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Mon Oct 13 10:43:00 CST 2014
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=false
+onejar.checkbox=false
+jarname=/Users/chenshang/Documents/MRZIP.jar
+manifest.mergeall=false
+manifest.mainclass=com.rsclouds.decompress.zip.ZipDecompress
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=
